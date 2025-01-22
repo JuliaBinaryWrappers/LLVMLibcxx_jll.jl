@@ -1,0 +1,36 @@
+[[LLVMLibcxx]]
+arch = "aarch64"
+git-tree-sha1 = "2c034ccbd63334b1461382378a2d057b2f61114a"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "73a6d18e48a17deec0088ccba6841ae800d0ae79239e112faed2785606741dc8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMLibcxx_jll.jl/releases/download/LLVMLibcxx-v18.1.7+0/LLVMLibcxx.v18.1.7.aarch64-linux-gnu.tar.gz"
+[[LLVMLibcxx]]
+arch = "i686"
+git-tree-sha1 = "508975ee4dc00144f646f02a88f0b95dd8953095"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "1a8b4624800737a50990687700ccee334e7ba25de8ac4fd5030f74e155670034"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMLibcxx_jll.jl/releases/download/LLVMLibcxx-v18.1.7+0/LLVMLibcxx.v18.1.7.i686-linux-gnu.tar.gz"
+[[LLVMLibcxx]]
+arch = "powerpc64le"
+git-tree-sha1 = "a19dc11f885f7b705268d9f674ccd424e8db7809"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "730831921cccfdb0cf1997e0201aea77e7e4f887ef2549eeab6c7b60ded08b9c"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMLibcxx_jll.jl/releases/download/LLVMLibcxx-v18.1.7+0/LLVMLibcxx.v18.1.7.powerpc64le-linux-gnu.tar.gz"
+[[LLVMLibcxx]]
+arch = "x86_64"
+git-tree-sha1 = "eb8000dd0518157195791754e9b2428a4a911bed"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "3df18ec5d86565ff9d96e08b9591634ace3e39c0f58d4cdc614f523258d75d7e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMLibcxx_jll.jl/releases/download/LLVMLibcxx-v18.1.7+0/LLVMLibcxx.v18.1.7.x86_64-linux-gnu.tar.gz"
