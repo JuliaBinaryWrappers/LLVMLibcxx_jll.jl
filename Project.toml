@@ -1,6 +1,6 @@
 name = "LLVMLibcxx_jll"
 uuid = "899a7460-a157-599b-96c7-ccb58ef9beb5"
-version = "18.1.7+0"
+version = "18.1.7+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
